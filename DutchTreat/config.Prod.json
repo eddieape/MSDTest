@@ -1,0 +1,10 @@
+{
+  "ConnectionStrings": {
+    "DutchConnectionString": "Data Source=(localdb)\\MSSQLLocalDB;Database=DutchTreatDb;Integrated Security=True;MultipleActiveResultSets=true;"
+  },
+  "Tokens": {
+    "Key": "a;sdlkfja; lsdkfj ;alksdfj ;alksdfj; aiefj;lskij;fldsk",
+    "Issuer": "localhost",
+    "Audience": "localhost"
+  }
+}
